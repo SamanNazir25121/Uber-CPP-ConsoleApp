@@ -1,0 +1,90 @@
+﻿  date.cpp
+  driver.cpp
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8,30): error C2504: 'user': base class undefined
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,7): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,45): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,18): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(11,8): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(11,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(11,17): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(19,22): error C2061: syntax error: identifier 'driver'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(25,17): error C2061: syntax error: identifier 'driver'
+C:\Users\Ammar\source\repos\Uber\Uber\driver.cpp(10,29): error C2660: 'trip::setDriver': function does not take 1 arguments
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(25,7): message : see declaration of 'trip::setDriver'
+  passanger.cpp
+C:\Users\Ammar\source\repos\Uber\Uber\driver.h(3,28): error C2504: 'user': base class undefined
+C:\Users\Ammar\source\repos\Uber\Uber\driver.h(8,17): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\driver.h(10,21): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(12,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(12,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(12,21): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(19,7): error C2061: syntax error: identifier 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(26,20): error C2061: syntax error: identifier 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.cpp(19,26): error C2676: binary '==': 'payment' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.cpp(30,44): error C2661: 'trip::trip': no overloaded function takes 4 arguments
+  payment.cpp
+  trip.cpp
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(14,9): error C2065: 'trip': undeclared identifier
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(14,14): error C2059: syntax error: '>'
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(15,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(15,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(15,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(22,6): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(22,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(22,24): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(23,22): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(25,9): error C2065: 'trip': undeclared identifier
+C:\Users\Ammar\source\repos\Uber\Uber\user.h(25,14): error C2059: syntax error: '>'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,7): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,45): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,18): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\driver.h(8,17): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\driver.h(10,21): error C2061: syntax error: identifier 'trip'
+  uber.cpp
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8,30): error C2504: 'user': base class undefined
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,7): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,45): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,18): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(11,8): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(11,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(11,17): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(19,22): error C2061: syntax error: identifier 'driver'
+C:\Users\Ammar\source\repos\Uber\Uber\trip.h(25,17): error C2061: syntax error: identifier 'driver'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(30,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(39,22): error C2039: 'bookRide': is not a member of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8): message : see declaration of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(41,22): error C2039: 'bookRide': is not a member of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8): message : see declaration of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(44,33): error C2660: 'passanger::rateDriver': function does not take 2 arguments
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,7): message : see declaration of 'passanger::rateDriver'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(52,33): error C2660: 'passanger::rateDriver': function does not take 2 arguments
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,7): message : see declaration of 'passanger::rateDriver'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(60,21): error C2039: 'bookRide': is not a member of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8): message : see declaration of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(69,34): error C2660: 'passanger::rateDriver': function does not take 2 arguments
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,7): message : see declaration of 'passanger::rateDriver'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(73,21): error C2039: 'bookRide': is not a member of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8): message : see declaration of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(77,34): error C2660: 'passanger::rateDriver': function does not take 2 arguments
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,7): message : see declaration of 'passanger::rateDriver'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(82,22): error C2039: 'bookRide': is not a member of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8): message : see declaration of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(86,33): error C2660: 'passanger::rateDriver': function does not take 2 arguments
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,7): message : see declaration of 'passanger::rateDriver'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(88,22): error C2039: 'bookRide': is not a member of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8): message : see declaration of 'passanger'
+C:\Users\Ammar\source\repos\Uber\Uber\uber.cpp(94,33): error C2660: 'passanger::rateDriver': function does not take 2 arguments
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,7): message : see declaration of 'passanger::rateDriver'
+  user.cpp
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(8,30): error C2504: 'user': base class undefined
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,7): error C2143: syntax error: missing ';' before '*'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(15,45): error C2238: unexpected token(s) preceding ';'
+C:\Users\Ammar\source\repos\Uber\Uber\passanger.h(17,18): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\driver.h(3,28): error C2504: 'user': base class undefined
+C:\Users\Ammar\source\repos\Uber\Uber\driver.h(8,17): error C2061: syntax error: identifier 'trip'
+C:\Users\Ammar\source\repos\Uber\Uber\driver.h(10,21): error C2061: syntax error: identifier 'trip'
+  Generating Code...
